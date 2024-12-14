@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vmap:VMAP xmlns:vmap="http://www.iab.net/videosuite/vmap" version="1.0">
+ <vmap:AdBreak timeOffset="start" breakType="linear" breakId="preroll">
+  <vmap:AdSource id="preroll-ad-1" allowMultipleAds="false" followRedirects="true">
+   <vmap:AdTagURI templateType="vast3"><![CDATA[https://pubads.g.doubleclick.net/gampad/live/ads?iu=/8323530/STV_IndiaTVLive_Vidgyor_Pre-Roll&description_url=https%3A%2F%2Fwww.indiatvnews.com%2F&tfcd=0&npa=0&sz=1x1%7C400x300%7C640x480&min_ad_duration=2000&max_ad_duration=240000&gdfp_req=1&unviewed_position_start=1&output=vast&env=vp&impl=s&correlator=&vad_type=linear]]></vmap:AdTagURI>
+  </vmap:AdSource>
+ </vmap:AdBreak>
+ </vmap:VMAP>
